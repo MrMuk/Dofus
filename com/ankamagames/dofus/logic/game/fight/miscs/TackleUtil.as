@@ -1,4 +1,4 @@
-﻿package com.ankamagames.dofus.logic.game.fight.miscs
+﻿package com.ankamagames.dofus.logic.game.fight.miscs // Механика Lock, потеря ап мп и тд
 {
     import com.ankamagames.dofus.network.types.game.character.characteristic.CharacterCharacteristicsInformations;
     import com.ankamagames.jerakine.entities.interfaces.IEntity;
