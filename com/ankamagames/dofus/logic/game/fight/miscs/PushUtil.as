@@ -1,4 +1,4 @@
-﻿package com.ankamagames.dofus.logic.game.fight.miscs
+﻿package com.ankamagames.dofus.logic.game.fight.miscs //Pushback механика
 {
     import com.ankamagames.jerakine.logger.Logger;
     import com.ankamagames.jerakine.logger.Log;
